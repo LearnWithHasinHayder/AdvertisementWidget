@@ -120,9 +120,6 @@ class AdvertisementWidget extends WP_Widget
         </p>
     <?php
     }
-
-
-
-} // class Foo_Widget
+}
 
 
